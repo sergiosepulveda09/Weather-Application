@@ -16,4 +16,11 @@ Simple weather app created using SwiftUI/UIKit.
 
 # Ilustrations
 
+
+
+https://user-images.githubusercontent.com/66451506/122837931-d92f6500-d2a9-11eb-90e2-87283be21ca7.mp4
+
+<img width="1440" alt="Screen Shot 2021-06-21 at 3 53 46 PM" src="https://user-images.githubusercontent.com/66451506/122837959-e5b3bd80-d2a9-11eb-8fbd-baae82b7a103.png">
+
+
 # Inspirations
