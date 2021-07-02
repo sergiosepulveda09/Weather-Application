@@ -22,4 +22,4 @@ https://user-images.githubusercontent.com/66451506/122837931-d92f6500-d2a9-11eb-
 
 
 # Inspirations
-This project was inspired by the DevTechie Tutorial he made. I am grateful for all the knowledge you share for free! I helped me a lot to understand Api calls, MVVM architecture and lottie dependency
+This project was inspired by a youtube Tutorial! I am grateful for all the knowledge people share for free! This helped me a lot to understand Api calls, MVVM architecture and lottie dependency
